@@ -24,8 +24,7 @@ app.use(morgan("dev"));
 
 app.use(cors({
   origin: [
-    "https://attendance-system-phi-six.vercel.app",
-    "https://attendance-system-git-main-namwhan111s-projects.vercel.app"
+   "https://attendance-front1.vercel.app"
   ],
   credentials: true
 }));
